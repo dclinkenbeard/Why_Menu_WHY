@@ -4,4 +4,6 @@
     <string name="file">File</string>
     <string name="create_new">Create New</string>
     <string name="open">Open</string>
+    <string name="here">HERE</string>
+    <string name="not_here">not here</string>
 </resources>
